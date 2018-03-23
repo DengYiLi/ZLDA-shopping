@@ -1,0 +1,17 @@
+body{
+    background: #fafafa;
+}
+.content{
+    margin:0 auto;
+    margin-top:110px;
+    height:420px;
+    background: #ffffff;
+}
+.content img{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: solid #afafaf 0.5px;
+}
+.zlda-foot{
+	margin-top:100px;
+}

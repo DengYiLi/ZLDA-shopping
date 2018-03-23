@@ -1,0 +1,60 @@
+.zlda-foot p{
+    margin-top:25px;
+}
+.lyz_tab_left{
+ 	min-height: 400px;
+ 	width:200px;
+ 	float:left;
+ 	background-color:#1ABC9C;
+ 	border-top:1px solid #16A085;
+}
+.pro_con1111{ 
+	float: left;
+	overflow: hidden; 
+	width: 200px; 
+}
+.pro_con111 ul{ 
+	padding: 0px; 
+	list-style-type: none;
+}
+.pro_con111 ul li{ 
+	display: inline-block; 
+	font-weight: bold; 
+	font-size: 14px; 
+	float: left; 
+	margin-bottom: 5px; 
+	cursor: pointer; 
+	color: #ECF0F1; 
+	line-height: 30px; 
+	height: 30px; 
+	text-align:center;
+	width:100%;
+}
+.pro_con111 ul .li-title{
+	font-weight: bold; 
+	font-size: 15px; 
+	text-align:left;
+	color:#34495E; 
+	padding-left:30px;
+}
+.pro_con111 ul .li-choose:hover{
+	background:#16A085;
+}
+.lyz_tab_right{ 
+	display: inline; 
+	float: left; 
+	padding-bottom: 20px; 
+	padding-top: 20px; 
+	height:400px;
+}
+.clear{ 
+	clear:both;
+}
+.table-thead{
+	font-size:15px;
+	color:#95A5A6;
+	font-family: "黑体";
+}
+.car-user{
+	margin-left:15px;
+}

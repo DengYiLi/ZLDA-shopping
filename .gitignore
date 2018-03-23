@@ -1,0 +1,16 @@
+#Pycharm
+.idea
+
+#Django
+*.log
+*.pyc
+
+#Database
+db.sqlite3
+
+#vue
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+.idea
